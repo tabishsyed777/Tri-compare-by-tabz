@@ -1,0 +1,39 @@
+For Akola to Mumbai, the cheapest pick is Train: about Rs 250-1,600 (typical Rs 925), around 9.5 h door to door. Cheapest overall: Train (~Rs 925); fastest: Train + Flight (~8.8 h).
+
+- Train                        Rs    250-1,600  ~ 9.5 h  [cheapest] [best balance]
+    Akola -> Mumbai
+- Bus + Train                  Rs    350-1,650  ~11.2 h  
+    Akola -> Jalgaon -> Mumbai
+- Bus                          Rs    800-1,800  ~11.0 h  
+    Akola -> Mumbai
+- Bus + Flight                 Rs  3,950-10,200 ~ 9.3 h  
+    Akola -> Chhatrapati Sambhajinagar (Aurangabad) -> Mumbai
+- Train + Flight + Train       Rs  4,300-11,300 ~12.8 h  
+    Akola -> Nagpur -> Pune -> Mumbai
+- Bus + Flight + Train         Rs  4,500-11,300 ~13.2 h  
+    Akola -> Nagpur -> Pune -> Mumbai
+- Train + Flight               Rs  4,200-11,700 ~ 8.8 h  [fastest]
+    Akola -> Nagpur -> Mumbai
+
+Connecting flights: No saving: the cheapest connecting option is about Rs 5,625 MORE than the best single-flight option (Bus + Flight) and adds about 2.8 h (based on current estimates).
+Note: Akola: No regular scheduled flights assumed - verify current airline service. Flights start from a nearby airport.
+
+Prices and durations are ESTIMATES from seed data unless marked 'live'. They are not timetables or quotes. Always confirm on the booking site before paying.
+For Nagpur to Mumbai, the balanced pick is Train: about Rs 400-2,500 (typical Rs 1,450), around 15.0 h door to door. Cheapest overall: Train (~Rs 1,450); fastest: Direct flight (~3.2 h).
+
+- Train                        Rs    400-2,500  ~15.0 h  [cheapest] [best balance]
+    Nagpur -> Mumbai
+- Bus + Train                  Rs    600-2,500  ~14.8 h  
+    Nagpur -> Akola -> Mumbai
+- Train + Bus + Train          Rs    500-2,550  ~16.0 h  
+    Nagpur -> Akola -> Jalgaon -> Mumbai
+- Train + Bus                  Rs    950-2,700  ~15.8 h  
+    Nagpur -> Akola -> Mumbai
+- Direct flight                Rs  4,100-10,900 ~ 3.2 h  [fastest]
+    Nagpur -> Mumbai
+- Flight + Train               Rs  4,200-10,500 ~ 7.2 h  
+    Nagpur -> Pune -> Mumbai
+
+Connecting flights: No saving: the cheapest connecting option is about Rs 4,750 MORE than the nonstop flight and adds about 3.3 h (based on current estimates).
+
+Prices and durations are ESTIMATES from seed data unless marked 'live'. They are not timetables or quotes. Always confirm on the booking site before paying.

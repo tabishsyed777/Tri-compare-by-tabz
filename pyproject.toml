@@ -1,0 +1,11 @@
+[project]
+name = "tripcompare"
+version = "0.1.0"
+description = "Compare flights, buses and trains from A to B with transparent estimates"
+requires-python = ">=3.10"
+dependencies = []          # standard library only
+
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.setuptools.package-data]
+tripcompare = ["data/*.json", "web/*.html"]
